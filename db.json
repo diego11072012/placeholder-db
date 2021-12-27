@@ -1,4 +1,5 @@
-[
+{
+"data" : [
       { "id": "1", "estado": "disponible" },
       { "id": "2", "estado": "disponible" },
       { "id": "3", "estado": "disponible" },
@@ -42,3 +43,4 @@
       { "id": "41", "estado": "disponible" },
       { "id": "42", "estado": "ocupado" }
     ]
+}
