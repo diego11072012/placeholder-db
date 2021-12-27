@@ -24,23 +24,6 @@
       { "id": "22", "estado": "ocupado" },
       { "id": "23", "estado": "disponible" },
       { "id": "24", "estado": "disponible" },
-      { "id": "25", "estado": "disponible" },
-      { "id": "26", "estado": "disponible" },
-      { "id": "27", "estado": "disponible" },
-      { "id": "28", "estado": "disponible" },
-      { "id": "29", "estado": "disponible" },
-      { "id": "30", "estado": "disponible" },
-      { "id": "31", "estado": "disponible" },
-      { "id": "32", "estado": "disponible" },
-      { "id": "33", "estado": "disponible" },
-      { "id": "34", "estado": "ocupado" },
-      { "id": "35", "estado": "ocupado" },
-      { "id": "36", "estado": "disponible" },
-      { "id": "37", "estado": "disponible" },
-      { "id": "38", "estado": "disponible" },
-      { "id": "39", "estado": "disponible" },
-      { "id": "40", "estado": "disponible" },
-      { "id": "41", "estado": "disponible" },
-      { "id": "42", "estado": "ocupado" }
+      { "id": "25", "estado": "disponible" }
     ]
 }
